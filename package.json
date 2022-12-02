@@ -1,0 +1,11 @@
+{
+  "name": "tensor-protocol",
+  "version": "0.0.1-alpha",
+  "description": "Simple matrix protocol for parallel thread through web worker",
+  "main": "index.js",
+  "author": "alex pozdnyakof",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
